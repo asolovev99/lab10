@@ -2,6 +2,8 @@
 #include<stdio.h>
 #include<stdlib.h>
 
+#define _CRT_SECURE_NO_WARNINGS
+
 #define length_array 10
 
 void insertion_sort(double* numbers);
